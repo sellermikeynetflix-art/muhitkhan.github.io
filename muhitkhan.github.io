@@ -5,6 +5,6 @@
 </head>
 <body>
   <h1>Welcome to My Website 🚀</h1>
-  <p>This site is hosted on GitHub Pages.</p>
+  <p>This site is hosted on GitHub Pages. </p>
 </body>
 </html>
